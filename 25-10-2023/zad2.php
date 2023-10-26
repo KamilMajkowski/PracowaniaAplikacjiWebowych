@@ -1,10 +1,22 @@
-
-
 <?php
-        if(!isset($_COOKIE['username']))  {
-            echo "Cookie named ' username ' is not set!";
-        } else {
-            echo "Cookie ' username ' is set!<br>";
-            echo "Value is: " . $_COOKIE['username'];
-        }
-        ?>
+if(!isset ($_COOKIE['username'])) {
+    echo "Cookie named ' is not set!";
+} else {
+    echo "Value is: ". $_COOKIE['username'];
+}
+?>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" concent="width=device-width, initial-scale=1.0">
+    <title>Zapałą gej Cookie</title>
+</head>
+</html>
+
+
+<html>
+<body>
