@@ -13,7 +13,7 @@ if(!isset ($_COOKIE['username'])) {
 <head>
     <meta charset="UFT-8">
     <meta name="viewport" concent="width=device-width, initial-scale=1.0">
-    <title>Zapałą gej Cookie</title>
+    <title>Zapała gej Cookie</title>
 </head>
 </html>
 
