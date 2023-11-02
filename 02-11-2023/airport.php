@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Odloty samolotów</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style6.css">
 </head>
 <body>
 	<div id="baner1"><h2>Odloty z lotniska</h2></div>
