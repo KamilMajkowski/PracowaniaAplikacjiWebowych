@@ -1,0 +1,2 @@
+Sotosowanie pętli umożliwia powtarzalność kodu co kraca jego wartość .Pętlę pozwalają efektownie przetwarzać duże ilości danych co jest niezbędne w aplikacjach obsługujących zbiory liczbowe
+Programista może zautomatyzować powtarzalne czynności, co pozwala przyśpieszyć proces tworzenia oprograowania.Pętle umożliwiają uelastycznienie kodu.Pętle sa wszechstonne przy tworzeniu wielu rzeczy
