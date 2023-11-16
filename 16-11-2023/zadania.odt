@@ -1,0 +1,26 @@
+Zad 1
+
+MySql                   https://www.mysql.com/                                                  8.2.0;         TAK
+PostgreSQL              https://www.postgresql.org.pl/                                          11.22;         NIE
+Oracle Database         https://www.oracle.com/pl/database/                                     21c;           TAK
+Microsfot SQL Server    https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads         SQL Server 2019 (15.x)  TAK
+MongoDB                 https://www.mongodb.com/                                                6.0.7;          TAK
+
+Zad 2
+Wady:Wprowadza dodatkowe koszty związane z utrzymaniem i licencjonowaniem systemu bazodanewego
+Konieczność posiadana umiejętnośći obsługi bazy danych oraz jej struktur 
+Duże bazy danych mogą wymagać serwerów co wiąże się z kosztami infrastruktury
+Zalety:Umożliwia łączenie różnych źródeł danych i zapewnia jednolite środowisko dostępu
+Zapewnia  Mechniz tworzenia kopii zapasowych danych oraz ich przywracania w przypadku awarii
+
+Test
+1
+C
+2
+C
+3
+B
+4
+B
+5
+B
