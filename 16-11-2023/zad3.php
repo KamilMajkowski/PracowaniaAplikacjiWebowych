@@ -7,17 +7,15 @@
 </head>
 <body>
     <?php
-    $servername = " 127.0.0.1 ";
+    $servername = "localhost";
     $username = "root";
-    $password = "root";
+    $password = "";
     $database = "PracowaniaAplikacjiWebowych";
 
     $conn = new mysqli($servername, $username, $password, $database);
-    if ($conn->connes_error) {
-        die("Connestion failed: " . $conn->connes_error);
-    } else {
+    if ($conn === TRUE) {
         echo "Connected successfuly";
-    }
+    } 
 
     $conn->close();
 ?>
